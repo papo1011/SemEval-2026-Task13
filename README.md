@@ -91,6 +91,21 @@ Please adhere strictly to these rules to ensure a fair comparison across submiss
 - A **single scorer script** (`scorer.py`) is used for all subtasks  
 - Evaluation measure: **macro F1** for all subtasks
 
+## 📢 Kaggle competition
+The Kaggle competitions for the SemEval task are now live! 
+You can submit your system outputs using the following links:
+
+* [Task A](https://www.kaggle.com/t/99673e23fe8546cf9a07a40f36f2cc7e)
+
+* [Task B](https://www.kaggle.com/t/65af9e22be6d43d884cfd6e41cad3ee4)
+
+* [Task C](https://www.kaggle.com/t/005ab8234f27424aa096b7c00a073722)
+
+At the moment, only the **public test set** is available. The leaderboard shown now is for convenience only - it reflects results on the **public test set**.
+We will release the **private test set later**, which will be used for the **final evaluation and ranking**.
+
+Please make sure to **resubmit** your final predictions once the private test set is released, as only those submissions will be considered for the official evaluation. We will inform all participants when the private test data becomes available.
+
 
 ## FAQs
 > **Q1: What’s the participation process and how do I register?**
